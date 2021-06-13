@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -alnG
+ls -alg
+
